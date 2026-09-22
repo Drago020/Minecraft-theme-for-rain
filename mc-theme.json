@@ -6,6 +6,11 @@
             "name": "Drago",
             "id": "906112630152921089"
         }            
+
+        {
+            "name": "Fango (BG Provider)",
+            "id": "754912339731546152"
+        }
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [
@@ -520,7 +525,7 @@
     },
     "background": {
         "blur": 0,
-        "url": "https://cdn.discordapp.com/attachments/1549717487262900265/1551959860453576815/33d61871-95de-4c8f-976c-437d6505114f.jpg?ex=6ab3dec0&is=6ab28d40&hm=5b64b03ba3115692ebab4fbb6e190058f99bcc24ac3b3602bbbf4232c126f556&"
+        "url": "https://cdn.discordapp.com/attachments/1549717487262900265/1551985870255431720/Screenshot_277-1_1.png?ex=6ab3f6f9&is=6ab2a579&hm=9499361495bcfb800178a7ddb4478e67875008aec230658cf6f9bd63a6fac950"
     },
     "plus": {
         "version": 0,
