@@ -528,7 +528,7 @@
     },
     "plus": {
         "version": 0,
-        "iconpack": "iconsaxbulk",
+        "iconpack": "solarbroken",
         "mentionLineColor": "#D4A574",
         "customOverlays": true,
         "icons": {
