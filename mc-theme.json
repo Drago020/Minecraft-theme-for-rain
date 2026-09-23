@@ -528,7 +528,7 @@
     },
     "plus": {
         "version": 0,
-        "iconpack": "solarduotone",
+        "iconpack": "iconsaxbulk",
         "mentionLineColor": "#D4A574",
         "customOverlays": true,
         "icons": {
